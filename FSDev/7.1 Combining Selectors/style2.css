@@ -1,0 +1,18 @@
+h1,h2{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box > p{
+    font-weight: bold;
+    color: firebrick;
+}
+
+.box li{
+    color: darkorange;
+    font-style: italic;
+}
+
+li.done{
+    color: green;
+}
